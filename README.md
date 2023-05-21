@@ -8,3 +8,6 @@ This project was done to figure out the impact of a application boosting feature
 This project is associated with the new B2C business model, to determine the feasibility of reducing the number of free apply per month per user and imposing a payment option to avail more application per month. I have used Time Series forecasting, trend comparison of corresponding application segment, and EDA to figure out the purchasing behavior of users. This project is a high priority project as this can serve us both on the employer end and employee end by increasing revenue for the company and improving overall quality of applications. Reduced number of applications will enhance the overall quality of the applications per job post. It is found that approximately 24% of the users who reaches the reduced cap limit are expected to pay for more applications. 
 
 Regression can be used if we decide to further dive deep into the project. 
+
+## AO Companies for Survey
+This is a survey on companies that takes AO services which is a value added product of Bdjobs in the application portal. This product is a strategic point of action in order to create dependencies on Bdjobs portal. The survey was ran to uncover insights about the companies that are using and companies that are not using this product to guide further strategic decisions.  
