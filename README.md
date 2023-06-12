@@ -10,4 +10,5 @@ This project is associated with the new B2C business model, to determine the fea
 Regression can be used if we decide to further dive deep into the project. 
 
 ## AO Companies for Survey
-This is a survey on companies that takes AO services which is a value added product of Bdjobs in the application portal. This product is a strategic point of action in order to create dependencies on Bdjobs portal. The survey was ran to uncover insights about the companies that are using and companies that are not using this product to guide further strategic decisions.  
+This is a survey on companies that takes AO services which is a value added product of Bdjobs in the application portal. This product is a strategic point of action in order to create dependencies on Bdjobs portal. The survey was ran to uncover insights about the companies that are using and companies that are not using this product to guide further strategic decisions. 
+The final insights are curved based on the responses from the companies. Response rate of the companies were roughly 25%, and were recorded in a stratified manner. 
